@@ -1,4 +1,4 @@
 # Formacao GIT Hub
 
-Autenticação via user
-Autenticação via Token
+1 - Autenticação via user;
+2 - Autenticação via Token;
